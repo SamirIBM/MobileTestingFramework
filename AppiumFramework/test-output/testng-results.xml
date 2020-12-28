@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-28T10:09:44 IST" name="Default suite" finished-at="2020-12-28T10:10:59 IST" duration-ms="75465">
+    <groups>
+    </groups>
+    <test started-at="2020-12-28T10:09:44 IST" name="Default test" finished-at="2020-12-28T10:10:59 IST" duration-ms="75465">
+      <class name="Practice.AppiumFramework.TC_01">
+        <test-method is-config="true" signature="bt()[pri:0, instance:Practice.AppiumFramework.TC_01@72057ecf]" started-at="2020-12-28T10:09:44 IST" name="bt" finished-at="2020-12-28T10:09:44 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="testCase5()[pri:0, instance:Practice.AppiumFramework.TC_01@72057ecf]" started-at="2020-12-28T10:09:44 IST" name="testCase5" finished-at="2020-12-28T10:10:59 IST" duration-ms="75415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+      </class> <!-- Practice.AppiumFramework.TC_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
